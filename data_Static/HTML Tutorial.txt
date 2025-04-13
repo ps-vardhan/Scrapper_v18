@@ -1,0 +1,102 @@
+URL: https://www.w3schools.com/html/default.asp
+Title: HTML Tutorial
+
+HTML
+Tutorial
+❮ Home
+Next ❯
+Learn HTML
+HTML is the standard markup language for Web pages.
+With HTML you can create your own Website.
+HTML is easy to learn - You will enjoy it!
+Start learning HTML now »
+Easy Learning with HTML "Try it Yourself"
+With our "Try it Yourself" editor, you can edit the HTML code and view the 
+result:
+Example
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+</body>
+</html>
+Try it Yourself »
+Click on the "Try it Yourself" button to see how it works.
+HTML Examples
+In this HTML tutorial, you will find more than 200 examples. With our online 
+"Try it Yourself" editor, you can edit and test each example yourself!
+Go to HTML Examples!
+HTML Exercises
+Many chapters in this tutorial end with an exercise where you can check your level of knowledge.
+See all HTML Exercises
+HTML Quiz Test
+Test your HTML skills with our HTML Quiz!
+Start HTML Quiz!
+Track Your Progress
+Create a free W3Schools account and get access to more features and learning materials:
+View your completed tutorials, exercises, and quizzes
+Keep an eye on your progress and daily streaks
+Set goals and create learning paths
+Create your own personal website
+Sign Up for Free
+Note:
+This is an optional feature. You can study at W3Schools without creating an account.
+HTML References
+At W3Schools you will find complete references about HTML elements, 
+attributes, events, color names, entities, character-sets, URL encoding, 
+language codes, HTTP messages, browser support, and more:
+HTML Elements
+Browser Support
+Attributes
+Global Attributes
+Event Attributes
+Color Names
+Canvas
+Audio/Video DOM
+Character Sets
+URL Encoding
+Language Codes
+Country Codes
+HTTP Messages
+Px to Em Converter
+Keyboard Shortcuts
+Kickstart your career
+Get certified by completing
+the
+course
+Get certified
+w
+3
+s
+c
+h
+o
+o
+l
+s
+C
+E
+R
+T
+I
+F
+I
+E
+D
+.
+2
+0
+2
+5
+Video: HTML for Beginners
+❮ Home
+Next ❯
+★
++1
+Track your progress - it's free!
+Log in
+Sign Up
